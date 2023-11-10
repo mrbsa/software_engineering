@@ -1,2 +1,3 @@
-# software_engineering
-activities done for uni; Software Engineering classes 2023.2 at UFPE.
+# Engenharia de Software 2023.2
+Atividades da matéria Engenharia de Software <br/>
+Aulas do período 2023.2 no Centro de Informática UFPE 
